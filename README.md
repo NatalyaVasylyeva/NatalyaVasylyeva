@@ -6,15 +6,16 @@
 ### <div align="center">I'm Natalia, Software QA Engineer (Manual, Automation) </div>  
   
 
-- I like to make things better;
+- I am a junior QA engineer with a strong passion for continuous improvement;
 
 - the IT industry is developing rapidly and I want to take my place in it;
  
 - I have completed one commercial and three training projects. I am eager to learn more and I work hard to reach my goals and improve my skills;
 
-- my goal as QA engineer is to participate in interesting projects and realize my full potential;
+- As a QA engineer, my ultimate objective is to actively engage in captivating projects and unlock my full potential;
   
-- 🌱 I’m currently learning Java, Selenium.  
+- 🌱Recently, I have been treated by learning automation testing. I studied Cypress and Selenium (Java).
+Now I'm working as a tester on mobile application and marketplace development projects.  
   
 
 <br/>  
